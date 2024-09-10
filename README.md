@@ -1,6 +1,6 @@
 ### Bem vindos ao meu perfil 🦋
 
-Meu nome é Giovanna Matos
+Meu nome é Giovanna 
 
 -Estou estudando na alura
 -Estou me desenvolvendo na linguagem javaScript
@@ -12,3 +12,5 @@ Meu nome é Giovanna Matos
 
 @giowttsx
 
+![](https://media.tenor.com/Rv3x7_Mlj1kAAAAi/stich-beso.gif)
+ 
